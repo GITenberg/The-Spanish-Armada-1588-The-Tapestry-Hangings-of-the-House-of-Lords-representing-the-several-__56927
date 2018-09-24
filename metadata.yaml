@@ -1,0 +1,28 @@
+_repo: The-Spanish-Armada-1588-The-Tapestry-Hangings-of-the-House-of-Lords-representing-the-several-__56927
+_version: 0.0.1
+contributor:
+  illustrator: &id001
+    agent_name: Pine, John
+    gutenberg_agent_id: '49083'
+    url: http://www.gutenberg.org/2009/agents/49083
+creator:
+  author: *id001
+description: ''
+gutenberg_issued: '2018-04-06'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '56927'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: 'The Spanish Armada, 1588
+
+  The Tapestry Hangings of the House of Lords representing
+
+  the several engagements between the English and Spanish
+
+  Fleets.'
+url: http://www.gutenberg.org/ebooks/56927
