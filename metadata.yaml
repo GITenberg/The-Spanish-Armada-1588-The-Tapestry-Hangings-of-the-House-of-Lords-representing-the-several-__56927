@@ -5,9 +5,14 @@ contributor:
     agent_name: Pine, John
     gutenberg_agent_id: '49083'
     url: http://www.gutenberg.org/2009/agents/49083
+covers:
+- cover_type: archival
+  image_path: 56927-h/images/cover.jpg
 creator:
   author: *id001
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/56927#The-Spanish-Armada-1588-The-Tapestry-Hangings-of-the-House-of-Lords-representing-the-several-_
 gutenberg_issued: '2018-04-06'
 gutenberg_type: Text
 identifiers:
